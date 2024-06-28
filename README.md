@@ -1,7 +1,7 @@
 # FatherMaster
 > Screenshots at the end
 ## Briefly about the game
-Father Master is a runner in which you play as a father. The goal of the game is to run as far as possible and set your own records. In this runner, a random spawn of coins, obstacles and vegetables was made during the week. The game also has a nice menu, bonus shop and skin selection.
+Father Master is a so funny runner in which you play as a father. The goal of the game is to run as far as possible and set your own records. In this runner, a random spawn of coins, obstacles and vegetables was made during the week. The game also has a nice menu, bonus shop and skin selection.
 
 ## What does the game have??
 
