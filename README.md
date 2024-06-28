@@ -32,3 +32,12 @@ graphics - @zefruuu - 13 y.o
 
 ## Our Social Media
 
+> Telegram: Pixel Dreams | https://t.me/pixeldreams1
+
+> TikTok: @pixel.dreams3
+
+Please subscribe, we are trying hard)
+
+##ScreenShots
+
+![ScreenShot]()
